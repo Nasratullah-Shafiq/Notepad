@@ -1,0 +1,9 @@
+H:\Stock\Stock_Management\Notepad\Notepad\obj\Debug\Simple Notepad File.csprojResolveAssemblyReference.cache
+H:\Stock\Stock_Management\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+H:\Stock\Stock_Management\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+H:\Stock\Stock_Management\Notepad\Notepad\obj\Debug\Simple Notepad File.csproj.GenerateResource.Cache
+H:\Stock\Stock_Management\Notepad\Notepad\bin\Debug\Notepad.exe.config
+H:\Stock\Stock_Management\Notepad\Notepad\bin\Debug\Notepad.exe
+H:\Stock\Stock_Management\Notepad\Notepad\bin\Debug\Notepad.pdb
+H:\Stock\Stock_Management\Notepad\Notepad\obj\Debug\Notepad.exe
+H:\Stock\Stock_Management\Notepad\Notepad\obj\Debug\Notepad.pdb
